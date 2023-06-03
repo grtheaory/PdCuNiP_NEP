@@ -4,4 +4,4 @@ PdCuNiP_NEP.zip is a compressed package of files related to neuroevolution poten
 3. nep.restart:    restart file.
 4. test.xyz:    testing dataset.
 5. train.xyz:    training dataset. 
-File description please refer to https://gpumd.org/nep/index.html .
+6. File description please refer to https://gpumd.org/nep/index.html .
