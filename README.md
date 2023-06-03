@@ -1,15 +1,15 @@
 # PdCuNiP_NEP
 The files for Pd-Cu-Ni-P alloys.
-1. nep.in
+1. nep.in:
    This file specifies hyperparameters used for training neuroevolution potential (NEP) models.
-2. nep.population160.generation1013200.txt
+2. nep.population160.generation1013200.txt:
    NEP potential parameters (file).
-3. nep.restart
+3. nep.restart:
    restart file
-4. nep.txt
+4. nep.txt:
    NEP potential parameters (file).
    nep.txt is a copy of nep.population160.generation1013200.txt.
-5. test.xyz
+5. test.xyz:
    the testing dataset
-6. train.xyz
+6. train.xyz:
    the training dataset
