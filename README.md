@@ -5,11 +5,11 @@ The files for Pd-Cu-Ni-P alloys.
 2. nep.population160.generation1013200.txt:
    NEP potential parameters (file).
 3. nep.restart:
-   restart file
+   restart file.
 4. nep.txt:
    NEP potential parameters (file).
    nep.txt is a copy of nep.population160.generation1013200.txt.
 5. test.xyz:
-   the testing dataset
+   the testing dataset.
 6. train.xyz:
-   the training dataset
+   the training dataset.
